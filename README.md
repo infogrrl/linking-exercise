@@ -12,4 +12,4 @@ The prompt window should give you a URL with a log in token the first time you a
 
 Hopefully you now have a window in your browser that shows the directory where your jupyter notebook is saved in a helpful interface.  Click on the file name of the notebook in the interface to launch it.  This should open it in a new browser tab.  
 
-You can now run the cells to recreate the process I used to complete the exercise and regenerate the output!
+You can now run the cells to recreate the process I used to complete the exercise and regenerate the output!  All further documentation is within the notebook itself.
